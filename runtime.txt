@@ -1,0 +1,1 @@
+-novid -high -threads 4 -tickrate 128 -language bananagaming
